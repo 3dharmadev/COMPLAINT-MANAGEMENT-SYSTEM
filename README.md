@@ -5,12 +5,11 @@
 <h5>Tech Stack Used: Java, Servlet, JSP, HTML, CSS, MySQL, JDBC,Tomcat server 9.0</h5>
 
 <h1>Role Of Admin</h1>
-<ol>
 <liCan Login/Logout </li>
 <li Can see all raised complain's by employee </li>
 <li>Can assign/update engineer to perticular complain to solve</li>
 <li>Can register/delete engineer from the database</li>
-<li>Can see working engineer list with department name</li> </ol>
+<li>Can see working engineer list with department name</li>
 
 <h1>Role Of Employee</h1>
 <liCan Signup/Login/Logout </li>
