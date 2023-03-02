@@ -5,22 +5,22 @@
 <h5>Tech Stack Used: Java, Servlet, JSP, HTML, CSS, MySQL, JDBC,Tomcat server 9.0</h5>
 
 <h1>Role Of Admin</h1>
-<liCan Login/Logout </li>
+<li>Can Login/Logout </li>
 <li Can see all raised complain's by employee </li>
 <li>Can assign/update engineer to perticular complain to solve</li>
 <li>Can register/delete engineer from the database</li>
 <li>Can see working engineer list with department name</li>
 
 <h1>Role Of Employee</h1>
-<liCan Signup/Login/Logout </li>
-<li Can register a complain</li>
+<li>Can Signup/Login/Logout </li>
+<li> Can register a complain</li>
 <li>Can see all raised complain by him/her</li>
 <li>Can search a complain</li>
 <li>Can change the password</li>
  
 <h1>Role Of Engineer</h1>
 <li>Can Login/Logout </li>
-<li Can update complain status</li>
+<li> Can update complain status</li>
 <li>Can see all solved/partially solved problems</li>
 <li>Can change password</li>
  
