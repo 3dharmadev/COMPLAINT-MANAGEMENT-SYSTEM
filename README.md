@@ -20,7 +20,7 @@
 
 
 <h1>Role Of Engineer</h1>
-<liCan Login/Logout </li>
+<li>Can Login/Logout </li>
 <li Can update complain status</li>
 <li>Can see all solved/partially solved problems</li>
 <li>Can change password</li>
