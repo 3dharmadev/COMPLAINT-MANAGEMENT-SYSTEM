@@ -1,6 +1,6 @@
 # COMPLAINT-MANAGEMENT-SYSTEM(Full Stack Project)
 
-<h4>It is a java based web application where complain raised by employee will solved by engineer assign complain to engineer by admin/HOD only </h4>
+<h4> The Complaint Management System is a robust full-stack Java-based web application designed to streamline and enhance the process of handling complaints within an organization. This comprehensive system employs a stack of technologies, including Java, Servlets, JSP, HTML, CSS, MySQL, JDBC, and Tomcat Server 9.0, ensuring efficient functionality and user-friendly interfaces for employees, administrators (Admin/HODs), and engineers.</h4>
 
 <h5>Tech Stack Used: Java, Servlet, JSP, HTML, CSS, MySQL, JDBC,Tomcat server 9.0</h5>
 
